@@ -1,5 +1,5 @@
 # ARDUINO-OFFICE-SECURITY-SYSTEM
-<img src="images/overallSys.png" width="600"></p>
+<img src="images/overallSys.png" width="700"></p>
 Implementation of a office security system using Arduino Uno.
 
 # Simulation in TinkerCad
