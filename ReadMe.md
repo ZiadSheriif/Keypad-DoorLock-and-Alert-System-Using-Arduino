@@ -23,7 +23,8 @@ Implementation of a office security system using Arduino Uno.
 <img src="images/openSys.png" width="200"> <img src="images/defaultPw.png" width="200"><br>
 2. Green led  flashes as verification<br>
  <center><img src="images/done.png" width="200"></center>
-3.Any wrong password buzzer and red led will alert<br>
+3.after entering password 3 consequtive times buzzer and red led will alert<br>
+<img src ="images/alert.png" width="200"><br>
 
 
 
