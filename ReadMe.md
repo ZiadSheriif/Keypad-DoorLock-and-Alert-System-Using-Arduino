@@ -1,5 +1,5 @@
 # ARDUINO-OFFICE-SECURITY-SYSTEM
-![Alt Text]() <br>
+<code><img height="40" title="overall" src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/overall.png"></code> <br>
 Implementation of a office security system using Arduino Uno.
 
 # Simulation in TinkerCad
