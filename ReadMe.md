@@ -23,7 +23,7 @@ Implementation of a office security system using Arduino Uno.
 <img src="images/openSys.png" width="200"> <img src="images/defaultPw.png" width="200"><br>
 2. Green led  flashes as verification<br>
  <center><img src="images/done.png" width="200"></center>
-3.after entering password 3 consequtive times buzzer and red led will alert<br>
+3.after entering password 3 consequtive times buzzer and red led will alert<br><br>
 <img src ="images/alert.png" width="200"><br>
 
 
@@ -31,7 +31,7 @@ Implementation of a office security system using Arduino Uno.
 
 
 
-###### Another Version with more features which include photoresistor which can detect as a laser to detect any crashes from wall or window
+###### Another Version with more features which include photoresistor , laser and mirrors which can detect anything inside office like crashes from wall or window
  
 
 
